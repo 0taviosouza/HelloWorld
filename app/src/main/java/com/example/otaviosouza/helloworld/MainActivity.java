@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_PERMISSION_WRITE = 1001;
     private boolean permissionGranted;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
